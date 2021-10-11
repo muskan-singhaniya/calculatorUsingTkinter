@@ -1,4 +1,4 @@
-# calculatorUsingTkinter
+# Calculator Using Tkinter
 
 Created a calculator program using tkinter.
 <br>
